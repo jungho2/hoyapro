@@ -9,6 +9,9 @@ public class hello {
 		System.out.println("2");
 		System.out.println("master");
 		System.out.println("hoya");
+		System.out.println("hoya");
+		System.out.println("hoya");
+		System.out.println("hoya");
 	}
 
 }
